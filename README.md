@@ -1,6 +1,6 @@
 ## Hi there 👋
 <picture>
-  <source srcset="darkmode-image.png" media="(prefers-color-scheme: dark)">
+  <source srcset="result2.png" media="(prefers-color-scheme: dark)">
   <source srcset="result.png" media="(prefers-color-scheme: light)">
   <img src="result.png" alt="Logo">
 </picture>
