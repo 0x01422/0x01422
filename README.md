@@ -1,5 +1,10 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/0x01422/0x01422/main/result.png" alt="👋 Hi there! I'm x" title="👋 Hi there! I'm x"/>
+<picture>
+  <source srcset="darkmode-image.png" media="(prefers-color-scheme: dark)">
+  <source srcset="result.png" media="(prefers-color-scheme: light)">
+  <img src="result.png" alt="Logo">
+</picture>
+<br>
 <span>- 📚 I’m currently studying at TU-Darmstadt</span>
 <br>
 <span>- 🖥️ I code in these languages: C/C++, C#, Java</span>
