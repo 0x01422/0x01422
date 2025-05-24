@@ -9,7 +9,7 @@
 <br>
 <span>- 🖥️ I code in these languages: C/C++, C#, Java</span>
 <br>
-<span>- 🌱 I’m currently learning QT</span>
+<span>- 🌱 I’m currently learning Qt</span>
 <br>
 <span>- 💬 Ask me about anything on Discord</span>
 <br>
